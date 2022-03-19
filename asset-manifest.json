@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.1a4e6c84.js",
-    "static/js/787.5240ac25.chunk.js": "/static/js/787.5240ac25.chunk.js",
-    "static/media/background_home.png": "/static/media/background_home.1211f1920c1637882f20.png",
-    "static/media/busicon.gif": "/static/media/busicon.416352e4bbe4d1807f5a.gif",
-    "static/media/home-cellphones.png": "/static/media/home-cellphones.7debe7533c9c6517db0d.png",
-    "static/media/backgroundmiddle.jpg": "/static/media/backgroundmiddle.367a84dad2b59ef5037e.jpg",
-    "static/media/mediumicon3.svg": "/static/media/mediumicon3.03bdc62a5f9b0d131b66cbfd37e8aff4.svg",
-    "static/media/kupos-logo.png": "/static/media/kupos-logo.3741a8485cea61bc95b3.png",
-    "static/media/kupos_pay.svg": "/static/media/kupos_pay.07e7ae3b9cf411c1b757a1dd14da4350.svg",
-    "static/media/mediumicon2.svg": "/static/media/mediumicon2.915bcea7849a0da2ae32dc92c97dc8ca.svg",
-    "static/media/mediumicon.svg": "/static/media/mediumicon.03a6ee71ce8153456085c55a4336861d.svg",
-    "static/media/mediumicon4.svg": "/static/media/mediumicon4.26fe9a7eba604e309e5c0f278cf91fb1.svg",
-    "index.html": "/index.html",
-    "main.1a4e6c84.js.map": "/static/js/main.1a4e6c84.js.map",
-    "787.5240ac25.chunk.js.map": "/static/js/787.5240ac25.chunk.js.map"
+    "main.js": "./static/js/main.3f90963f.js",
+    "static/js/787.5240ac25.chunk.js": "./static/js/787.5240ac25.chunk.js",
+    "static/media/background_home.png": "./static/media/background_home.1211f1920c1637882f20.png",
+    "static/media/busicon.gif": "./static/media/busicon.416352e4bbe4d1807f5a.gif",
+    "static/media/home-cellphones.png": "./static/media/home-cellphones.7debe7533c9c6517db0d.png",
+    "static/media/backgroundmiddle.jpg": "./static/media/backgroundmiddle.367a84dad2b59ef5037e.jpg",
+    "static/media/mediumicon3.svg": "./static/media/mediumicon3.03bdc62a5f9b0d131b66cbfd37e8aff4.svg",
+    "static/media/kupos-logo.png": "./static/media/kupos-logo.3741a8485cea61bc95b3.png",
+    "static/media/kupos_pay.svg": "./static/media/kupos_pay.07e7ae3b9cf411c1b757a1dd14da4350.svg",
+    "static/media/mediumicon2.svg": "./static/media/mediumicon2.915bcea7849a0da2ae32dc92c97dc8ca.svg",
+    "static/media/mediumicon.svg": "./static/media/mediumicon.03a6ee71ce8153456085c55a4336861d.svg",
+    "static/media/mediumicon4.svg": "./static/media/mediumicon4.26fe9a7eba604e309e5c0f278cf91fb1.svg",
+    "index.html": "./index.html",
+    "main.3f90963f.js.map": "./static/js/main.3f90963f.js.map",
+    "787.5240ac25.chunk.js.map": "./static/js/787.5240ac25.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.1a4e6c84.js"
+    "static/js/main.3f90963f.js"
   ]
 }
