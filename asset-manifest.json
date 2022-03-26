@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.js": "./static/js/main.db02c2e2.js",
+    "main.css": "./static/css/main.9a986c5f.css",
+    "main.js": "./static/js/main.72e056ea.js",
     "static/js/787.5240ac25.chunk.js": "./static/js/787.5240ac25.chunk.js",
+    "static/media/primeicons.svg": "./static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/primeicons.eot": "./static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "./static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "./static/media/primeicons.91bacab1f083f2795272.ttf",
     "static/media/logo.jpg": "./static/media/logo.14db254bc7c155c76e58.jpg",
     "static/media/backgroundmiddle.jpg": "./static/media/backgroundmiddle.367a84dad2b59ef5037e.jpg",
     "static/media/background_home.jpg": "./static/media/background_home.76323fb76f58d449c0a3.jpg",
     "static/media/background_home.png": "./static/media/background_home.6817d02e4e1bf858d59a.png",
     "static/media/logobusticket.png": "./static/media/logobusticket.82525b22f6caa70e74d7.png",
     "index.html": "./index.html",
-    "main.db02c2e2.js.map": "./static/js/main.db02c2e2.js.map",
+    "main.9a986c5f.css.map": "./static/css/main.9a986c5f.css.map",
+    "main.72e056ea.js.map": "./static/js/main.72e056ea.js.map",
     "787.5240ac25.chunk.js.map": "./static/js/787.5240ac25.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.db02c2e2.js"
+    "static/css/main.9a986c5f.css",
+    "static/js/main.72e056ea.js"
   ]
 }
